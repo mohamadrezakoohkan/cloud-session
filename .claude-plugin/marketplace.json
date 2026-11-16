@@ -1,0 +1,5 @@
+{
+  "name": "cloud-session",
+  "owner": { "name": "mohamadrezakoohkan" },
+  "plugins": [{ "name": "model-advisor", "source": "./mods/model-advisor" }]
+}

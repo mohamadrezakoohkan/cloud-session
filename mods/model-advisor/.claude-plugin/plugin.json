@@ -1,0 +1,8 @@
+{
+  "name": "model-advisor",
+  "version": "0.1.0",
+  "description": "Suggests which Claude model, effort level, subagents, background subagents and dynamic workflow fit each prompt",
+  "author": { "name": "mohamadrezakoohkan" },
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}
